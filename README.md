@@ -1,1 +1,2 @@
-# nw-digital-scope
+# simple-headphone-amplifier
+* Concepts
